@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">fragment</string>
+
+    <string name="Go_back">Go back</string>
+
+    <string name="Frame_Layout1">Frame Layout 1</string>
+    <string name="Activity">Activity</string>
+    <string name="Fragment_A">Fragment A</string>
+    <string name="Fragment_B">Fragment B</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
